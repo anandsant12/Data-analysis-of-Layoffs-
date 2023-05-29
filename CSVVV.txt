@@ -1,0 +1,11 @@
+Company,Location_HQ,Industry,Laid_Off_Count,Percentage,Date,Country,YEAR
+Google,SF Bay Area,Consumer,12000.0,0.06,2023-01-20,United States,2023
+Meta,SF Bay Area,Consumer,11000.0,0.13,2022-11-09	,United States,2022
+Amazon,Seattle,Retail,10000.0,0.03,2022-11-16,United States,2022
+Meta,	SF Bay Area,Consumer,10000.0,0.00,2023-03-14,United States,2023
+Microsoft,Seattle,Other,10000.0,	0.05,2023-01-18,	United States,2023
+Amazon,Seattle,Retail,9000.0,0.00,2023-03-20,United States,2023
+Ericsson,Stockholm,Other,8500.0,	0.08,2023-02-24,Sweden,2023
+Amazon,Seattle,Retail,8000.0,0.02,2023-01-04,United States,2023
+Salesforce,SF Bay Area,Sales,8000.0,0.10,2023-01-04,United States,2023
+Flink,Berlin,Food,8000.0,0.40,2023-04-24,Germany,2023
